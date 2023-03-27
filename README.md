@@ -38,15 +38,18 @@ Sou um entusiasta da tecnologia numa constante busca pelo conhecimento, trabalha
 
 ## Certificações
 
+**🗸 AWS Certified Cloud Practitioner**
+
+**🗸 Certified Kubernetes Administrator**
+
 **🗸 Gitlab Certified Associate**
+
+**🗸 ITIL® Foundation Certificate in IT Service Management V4**
 
 **🗸 OCI Foundations Associate**
 
 **🗸 OCI Architect Associate**
 
-**🗸 AWS Certified Cloud Practitioner**
-
-**🗸 Certified Kubernetes Administrator**
 
 ## Curiosidades
 
