@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Sou um entusiasta da tecnologia numa constante busca pelo conhecimento, trabalhando com aquilo que amo e que acredito.
 
-🔭  Explorando o mundo DevOps/ SRE, buscando resolver problemas do mundo real através da Automação, ferramentas de IaC, Observability e Cloud Computing.
+🔭  Explorando o mundo DevOps/ SRE, buscando resolver problemas do mundo real através da Automação, IaC, Observability e Cloud Computing.
 
 🌱  Estudando Python e AWS
 
