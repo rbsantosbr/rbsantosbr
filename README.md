@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 
 # Olá, Eu sou o Roberto Santos 😄
 
-Sou um entusiasta da tecnologia numa constante busca pelo conhecimento, trabalhando com aquilo que amo e que acredito.
-
-🔭  Explorando o mundo DevOps/ SRE, buscando resolver problemas do mundo real através da Automação, IaC, Observability e Cloud Computing.
+Sou um entusiasta da tecnologia numa constante busca pelo conhecimento, explorando o mundo DevOps/ SRE, buscando resolver problemas do mundo real através da Automação, IaC, Observability e Cloud Computing. Essa é a minha paixão.
 
 🌱  Estudando Python e AWS
 
 ## Tecnologias e Ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-%23100000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-%23E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![gitlab](https://img.shields.io/badge/GitLab-%23330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
