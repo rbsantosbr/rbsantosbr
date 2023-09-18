@@ -56,7 +56,7 @@ Sou um entusiasta da tecnologia numa constante busca pelo conhecimento, exploran
 
 ## Curiosidades
 
-Mentorado na primeira edição do programa [Fomando DevOps para a vida real](https://formandodevops.getup.io/), ministrado pela GETUP.
+Mentorado na primeira edição do programa **Fomando DevOps para a vida real**, ministrado pela GETUP.
 
 ## Contato
 
