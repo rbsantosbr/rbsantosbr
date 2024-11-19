@@ -20,7 +20,6 @@ Sou um entusiasta da tecnologia numa constante busca pelo conhecimento, exploran
 
 <!-- 🖧 Esta é a minha Paixão. -->
 
-🌱 Estudando Python e AWS
 
 ## Hard Skills
 
