@@ -69,7 +69,7 @@ Eu sou Roberto, Um Técnico em Computação, Analista de Sistemas, Entusiasta da
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertobsantos)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:contato@robertosantos.xyz)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@robertosantos.xyz)
 
 <!--
 ###
