@@ -70,3 +70,9 @@ Eu sou Roberto, Um Técnico em Computação, Analista de Sistemas, Entusiasta da
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertobsantos)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:contato@robertosantos.xyz)
+
+<!--
+###
+---
+![](https://github-readme-stats.vercel.app/api?username=rbsantosbs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsantosbr&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+-->
