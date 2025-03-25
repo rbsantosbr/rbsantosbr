@@ -66,12 +66,7 @@ Eu sou Roberto, Um Técnico em Computação, Analista de Sistemas, Entusiasta da
 **🗸 OCI Architect Associate**
 
 
-## Curiosidades
-
-Mentorado na primeira edição do programa **Fomando DevOps para a vida real**, ministrado pela GETUP.
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertobsantos)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:rbsantosbr1@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rbsantosbr)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:contato@robertosantos.xyz)
