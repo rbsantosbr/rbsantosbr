@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Olá, Eu sou o Roberto Santos 😄
+# Olá, Eu sou o Roberto Santos
 
 Sou um entusiasta da tecnologia numa constante busca pelo conhecimento, explorando o mundo DevOps/ SRE, buscando resolver problemas do mundo real através da Automação, IaC, Observability e Cloud Computing. 
 
